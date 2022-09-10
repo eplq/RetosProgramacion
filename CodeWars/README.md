@@ -7,3 +7,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | Nombre | Lenguaje | Archivo | Enlace |
 |--------|----------|---------|--------|
 | Reverse Words | Python | [reverse_words.py](reverse_words.py) | [Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/python) |
+| Reverse Words | JavaScript | [reverse_words.js](reverse_words.js) | [Link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/javascript) |
