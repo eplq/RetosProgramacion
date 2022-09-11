@@ -2,7 +2,7 @@
 
 Este es el archivo de retos resueltos de [retosdeprogramacion.com](retosdeprogramacion.com).
 
-## Semana 36
+## Semana 36 [Challenge36.ts](Challenge36.ts)
 
 ```javascript
 /*
