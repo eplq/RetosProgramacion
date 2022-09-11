@@ -12,3 +12,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | Valid Braces | Python | [valid_braces.py](valid_braces.py) | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/python) |
 | Detect Pangram | Python | [detect_pangram.py](detect_pangram.py) | [Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/python) |
 | Persistent Bugger. | Python | [persistent_bugger.py](persistent_bugger.py) | [Link](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/train/python) |
+| Roman Numerals Decoder | Python | [roman_numeral_decoder.py](roman_numeral_decoder.py) | [Link](https://www.codewars.com/kata/51b6249c4612257ac0000005/train/python) |
