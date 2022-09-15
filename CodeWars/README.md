@@ -17,3 +17,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | String ends with? | JavaScript | [string_ends_with.js](string_ends_with.js) | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/javascript) |
 | Descending Order | JavaScript | [descending_order.js](descending_order.js) | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript) |
 | Find the odd int | JavaScript | [find_the_odd_int.js](find_the_odd_int.js) | [Link](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript) |
+| Where my anagrams at? | Python | [where_my_anagrams_at.js](where_my_anagrams_at.py) | [Link](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/python) |
