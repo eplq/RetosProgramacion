@@ -41,13 +41,15 @@ After you complete this kata, you may try yourself at Decode the Morse code, adv
 """
 
 MORSE_CODE: dict
+
+
 def decode_morse(morse_code):
-    # remove spaces and split words    
+    # remove spaces and split words
     words = morse_code \
         .strip() \
         .split("   ")
 
-    translated_words = [] # empty array to store translated words
+    translated_words = []  # empty array to store translated words
     for word in words:
         # separate chars and translate them
         characters = [MORSE_CODE[morse_char] for morse_char in word.split(" ")]

@@ -1,5 +1,5 @@
 def valid_braces(string):
-    
+
     stack = ""
     for character in string:
         if character in ["[", "{", "("]:
@@ -13,7 +13,7 @@ def valid_braces(string):
 
         if character == "}" and stack[-1] == "{":
             stack = stack[:len(stack) - 1]
-            
+
         if character == ")" and stack[-1] == "(":
             stack = stack[:len(stack) - 1]
 
