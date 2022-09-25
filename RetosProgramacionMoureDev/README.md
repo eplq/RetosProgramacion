@@ -2,7 +2,7 @@
 
 Este es el archivo de retos resueltos de [retosdeprogramacion.com](https://retosdeprogramacion.com).
 
-## Semana 36 [Challenge36.ts](Challenge36.ts)
+## Semana 36 [Challenge36.ts](Challenge36.ts) (Resuelto el 10/09/2022)
 
 ```javascript
 /*
@@ -33,7 +33,7 @@ Este es el archivo de retos resueltos de [retosdeprogramacion.com](https://retos
  */
 ```
 
-## Semana 37 [Challenge37.ts](Challenge37.ts)
+## Semana 37 [Challenge37.ts](Challenge37.ts) (Resuelto el 18/09/2022)
 
 ```javascript
 /*
@@ -48,7 +48,7 @@ Este es el archivo de retos resueltos de [retosdeprogramacion.com](https://retos
  */
 ```
 
-## Semana 38 [Challenge38.ts](Challenge38.ts)
+## Semana 38 [Challenge38.ts](Challenge38.ts) (Resuelto el 25/09/2022)
 
 ```javascript
 /*
