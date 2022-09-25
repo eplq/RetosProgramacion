@@ -47,3 +47,13 @@ Este es el archivo de retos resueltos de [retosdeprogramacion.com](https://retos
  *   (si no encuentras el día exacto puedes usar el mes, o incluso inventártelo)
  */
 ```
+
+## Semana 38 [Challenge38.ts](Challenge38.ts)
+
+```javascript
+/*
+ * Enunciado: Crea un programa se encargue de transformar un número binario
+ * a decimal sin utilizar funciones propias del lenguaje que 
+ * lo hagan directamente.
+ */
+```
