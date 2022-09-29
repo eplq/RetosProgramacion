@@ -1,31 +1,39 @@
-def format_duration(seconds):
+def format_duration(nseconds):
 
-    if seconds < 0:
+    if nseconds < 0:
         return None
 
-    if not seconds:
+    if not nseconds:
         return "now"
 
-    years = seconds / 31536000
-    days = (years - int(years)) * 365
-    hours = (days - int(days)) * 24
-    minutes = (hours - int(hours)) * 60
-    seconds = (minutes - int(minutes)) * 60
+    values = {
+        "years": int((nseconds / 31536000)),
+        "days": int((nseconds / 86400) % 365),
+        "hours": int((nseconds / 3600) % 24),
+        "minutes": int((nseconds / 60) % 60),
+        "seconds": int(nseconds % 60),
+    }
 
-    message = ""
-    if seconds:
-        message = f"{int(seconds)} {'seconds' if int(seconds) != 1 else 'second'}"
+    human_texts = {
+        "years": ["year", "years"],
+        "days": ["day", "days"],
+        "hours": ["hour", "hours"],
+        "minutes": ["minute", "minutes"],
+        "seconds": ["second", "seconds"],
+    }
 
-    if minutes >= 1:
-        message = f"{int(minutes)} {'minutes' if int(minutes) != 1 else 'minute'} and " + message
+    existent_values = []
+    for key, value in values.items():
+        if not value:
+            continue
 
-    if hours >= 1:
-        message = f"{int(hours)} {'hours' if int(hours) != 1 else 'hour'}, " + message
+        human_text_string = "{} {}".format(value, human_texts[key][value != 1])
+        existent_values.append(human_text_string)
 
-    if days >= 1:
-        message = f"{int(days)} {'days' if int(days) != 1 else 'day'}, " + message
+    if len(existent_values) >= 3:
+        return f"{', '.join(existent_values[:-2])}, {existent_values[-2]} and {existent_values[-1]}"
 
-    if years >= 1:
-        message = f"{years} {'years' if int(years) != 1 else 'year'}, " + message
+    if len(existent_values) == 2:
+        return f"{existent_values[-2]} and {existent_values[-1]}"
 
-    return message
+    return existent_values[0]
