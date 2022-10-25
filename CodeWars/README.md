@@ -20,3 +20,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | Where my anagrams at? | Python | [where_my_anagrams_at.js](where_my_anagrams_at.py) | [Link](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/python) |
 | Stop gninnipS My sdroW! | Python | [stop_spinning_my_words.py](stop_spinning_my_words.py) | [Link](https://www.codewars.com/kata/5264d2b162488dc400000001/train/python) |
 | Human readable duration format | Python | [human_readable_duration_format.py](human_readable_duration_format.py) | [Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python) |
+| Are they the "same"? | JavaScript | [are_they_the_same.js](are_they_the_same.js) | [Link](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript) |
