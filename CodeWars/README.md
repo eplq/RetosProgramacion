@@ -22,3 +22,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | Human readable duration format | Python | [human_readable_duration_format.py](human_readable_duration_format.py) | [Link](https://www.codewars.com/kata/52742f58faf5485cae000b9a/train/python) |
 | Are they the "same"? | JavaScript | [are_they_the_same.js](are_they_the_same.js) | [Link](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript) |
 | Good vs Evil | JavaScript | [good_vs_evil.js](good_vs_evil.js) | [Link](https://www.codewars.com/kata/52761ee4cffbc69732000738/train/javascript) |
+| RGB to Hex Conversion | JavaScript | [rgb_to_hex_conversion.js](rgb_to_hex_conversion.js) | [Link](https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript) |
