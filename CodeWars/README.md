@@ -23,3 +23,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | Are they the "same"? | JavaScript | [are_they_the_same.js](are_they_the_same.js) | [Link](https://www.codewars.com/kata/550498447451fbbd7600041c/train/javascript) |
 | Good vs Evil | JavaScript | [good_vs_evil.js](good_vs_evil.js) | [Link](https://www.codewars.com/kata/52761ee4cffbc69732000738/train/javascript) |
 | RGB to Hex Conversion | JavaScript | [rgb_to_hex_conversion.js](rgb_to_hex_conversion.js) | [Link](https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript) |
+| Bit Counting | C | [bit_counting.c](bit_counting.c) | [Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/c) |
