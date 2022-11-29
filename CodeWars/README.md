@@ -24,3 +24,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | Good vs Evil | JavaScript | [good_vs_evil.js](good_vs_evil.js) | [Link](https://www.codewars.com/kata/52761ee4cffbc69732000738/train/javascript) |
 | RGB to Hex Conversion | JavaScript | [rgb_to_hex_conversion.js](rgb_to_hex_conversion.js) | [Link](https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript) |
 | Bit Counting | C | [bit_counting.c](bit_counting.c) | [Link](https://www.codewars.com/kata/526571aae218b8ee490006f4/train/c) |
+| Growth of a Population | Python | [growth_of_a_population.py](growth_of_a_population.py) | [Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/python) |
