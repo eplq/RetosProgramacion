@@ -27,3 +27,4 @@ Este es el archivo de katas resueltas en Code Wars. Puede haberlos en diferentes
 | Growth of a Population | Python | [growth_of_a_population.py](growth_of_a_population.py) | [Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/python) |
 | Multiples of 3 or 5 | Python | [multiples_of_3_or_5.py](multiples_of_3_or_5.py) | [Link](https://www.codewars.com/kata/514b92a657cdc65150000006/train/python) |
 | PaginationHelper | Python | [PaginationHelper.py](PaginationHelper.py) | [Link](https://www.codewars.com/kata/515bb423de843ea99400000a/train/python) |
+| Sum of Digits / Digital Root | JavaScript | [sum_of_digits_digital_root.js](sum_of_digits_digital_root.js) | [Link](https://www.codewars.com/kata/541c8630095125aba6000c00/train/javascript) |
